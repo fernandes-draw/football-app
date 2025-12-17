@@ -1,3 +1,7 @@
 {
-  "cSpell.words": ["corsheaders"]
+  "cSpell.words": [
+    "corsheaders",
+    "Viewset",
+    "viewsets"
+  ]
 }
